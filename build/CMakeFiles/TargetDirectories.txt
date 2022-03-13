@@ -1,0 +1,3 @@
+/home/pwl/Documents/nokia_homework1/build/CMakeFiles/rebuild_cache.dir
+/home/pwl/Documents/nokia_homework1/build/CMakeFiles/edit_cache.dir
+/home/pwl/Documents/nokia_homework1/build/CMakeFiles/nokia_homework1.dir

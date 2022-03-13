@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/nokia_homework1.dir/OS_Project.cpp.o CMakeFiles/nokia_homework1.dir/Process.cpp.o  -o nokia_homework1 

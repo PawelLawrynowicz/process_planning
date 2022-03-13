@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pwl/Documents/nokia_homework1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -std=gnu++2a -o CMakeFiles/nokia_homework1.dir/OS_Project.cpp.o -c /home/pwl/Documents/nokia_homework1/OS_Project.cpp",
+  "file": "/home/pwl/Documents/nokia_homework1/OS_Project.cpp"
+},
+{
+  "directory": "/home/pwl/Documents/nokia_homework1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -std=gnu++2a -o CMakeFiles/nokia_homework1.dir/Process.cpp.o -c /home/pwl/Documents/nokia_homework1/Process.cpp",
+  "file": "/home/pwl/Documents/nokia_homework1/Process.cpp"
+}
+]

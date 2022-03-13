@@ -1,0 +1,4 @@
+FCFS - średni czas oczekiwania: 10.5714
+SJF - średni czas oczekiwania: 6.28571
+HRRN - średni czas oczekiwania: 7.57143
+Round robin - średni czas oczekiwania: 12.1429
